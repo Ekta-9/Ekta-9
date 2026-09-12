@@ -2,7 +2,7 @@
 
 # Ekta Harde
 
-Turning new opportunities and real-world problems into tech solutions.
+Turning real-world problems into working code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ektah/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9)
@@ -14,9 +14,7 @@ Turning new opportunities and real-world problems into tech solutions.
 
 ---
 
-I build systems that sit at the intersection of AI/ML and backend engineering — training and deploying models,
-securing the APIs around them, and shipping things that hold up outside a notebook. Currently exploring
-computer vision, RAG pipelines, and applied NLP.
+I build systems where AI/ML meets backend engineering. Training models, wiring them into secure APIs, and shipping things that actually hold up in production. Always looking to contribute to something impactful.
 
 ---
 

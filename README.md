@@ -47,20 +47,7 @@ built with production-grade security since it handles patient data.
 - JWT auth, per-record RBAC (owner/editor/viewer), and envelope encryption — AES-GCM for patient data + RSA-OAEP key wrapping with session-scoped key caching
 - S3-compatible storage (Supabase Storage in prod, MinIO in dev); deployed via Docker, Render, Vercel, and Hugging Face Spaces
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/heart-trace)<!-- replace with exact repo URL --> [![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.vercel.app)<!-- replace with exact demo URL -->
-
----
-
-### Deepfake Detection System
-`Python` `FastAPI` `Node.js` `PostgreSQL` `Docker`
-
-A full-stack platform for detecting manipulated media, with visual explanations for every prediction rather than a black-box score.
-
-- Fine-tuned **ResNet50** on 12,890 images, with **Grad-CAM** overlays highlighting manipulated regions
-- FastAPI ML service + Node.js/Express backend, JWT auth, PostgreSQL for user and analysis management
-- Drag-and-drop web interface; containerized end-to-end with Docker Compose (ML service, backend, database, Nginx reverse proxy)
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/deepfake-detection)<!-- replace with exact repo URL -->
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/CHD-Project)<!-- replace with exact repo URL --> [![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://chd-for-epics.vercel.app/main.html)<!-- replace with exact demo URL -->
 
 ---
 
@@ -74,7 +61,7 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 - SQLite clause cache eliminating repeat calls entirely on identical re-uploads
 - Self-check-and-retry verification, glossary retrieval via sentence-transformers, readability scoring, and an 85-test mocked suite
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-doc-simplifier)<!-- replace with exact repo URL -->
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-simplifier)<!-- replace with exact repo URL -->
 
 ---
 

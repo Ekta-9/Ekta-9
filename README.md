@@ -14,8 +14,7 @@ Turning real-world problems into working code.
 
 ---
 
-I build systems where AI/ML meets backend engineering. Training models, wiring them into secure APIs, and shipping things that actually hold up in production. Always looking to contribute to something impactful.
-
+I build systems where AI/ML meets backend engineering. Training models, building RAG pipelines and autonomous agents, wiring them into secure APIs, and shipping things that actually hold up in production. Always looking to contribute to something impactful.
 ---
 
 ## Tech Stack

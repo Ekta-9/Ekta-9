@@ -8,7 +8,7 @@ Turning new opportunities and real-world problems into tech solutions.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ekta_9/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ektaharde)
-[![Gmail](https://img.shields.io/badge/Email-YOUR.EMAIL%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ektaharde@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-ektaharde%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ektaharde@gmail.com)
 
 </div>
 

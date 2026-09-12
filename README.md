@@ -32,10 +32,7 @@ I build systems where AI/ML meets backend engineering. Training models, building
 
 **Tools & Cloud:** Docker · Git · AWS · Postman · Hugging Face Spaces
 
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,redis,docker,git,aws,postman&theme=dark)](https://skillicons.dev)
- 
-</div>
+
 
 ---
 

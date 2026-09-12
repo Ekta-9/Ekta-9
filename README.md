@@ -12,27 +12,25 @@ Turning real-world problems into working code.
 
 </div>
 
-</div> <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1wNnc5M3VyMmc1bXZuYjAxZmlpYXExcGFjdWFkdjJpeXIxeHczcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cC4jUAUPDQ91K/giphy.gif" width="400"> </div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1wNnc5M3VyMmc1bXZuYjAxZmlpYXExcGFjdWFkdjJpeXIxeHczcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cC4jUAUPDQ91K/giphy.gif" width="400">
+
+</div>
 
 ---
- 
+
 I build systems where AI/ML meets backend engineering. Training models, building RAG pipelines and autonomous agents, wiring them into secure APIs, and shipping things that actually hold up in production. Always looking to contribute to something impactful.
 
 ---
 
-## Tech Stack
+## Stack
 
-**Languages:** Python · SQL
+<div align="center">
 
-**AI / ML:** PyTorch · TensorFlow · Scikit-learn · Keras · NumPy · Pandas · Matplotlib · CNNs · Transformers · OpenCV · Image Processing · NLP
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,redis,docker,git,aws,postman)](https://skillicons.dev)
 
-**Generative AI:** LLMs · Context Engineering · RAG · LangChain · Ollama · ChromaDB · Hugging Face
-
-**Backend & Databases:** FastAPI · REST APIs · PostgreSQL · Redis
-
-**Tools & Cloud:** Docker · Git · AWS · Postman · Hugging Face Spaces
-
-
+</div>
 
 ---
 
@@ -49,7 +47,7 @@ built with production-grade security since it handles patient data.
 - JWT auth, per-record RBAC (owner/editor/viewer), and envelope encryption — AES-GCM for patient data + RSA-OAEP key wrapping with session-scoped key caching
 - S3-compatible storage (Supabase Storage in prod, MinIO in dev); deployed via Docker, Render, Vercel, and Hugging Face Spaces
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/CHD-Project)<!-- replace with exact repo URL --> [![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://chd-for-epics.vercel.app/main.html)<!-- replace with exact demo URL -->
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/CHD-Project) [![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://chd-for-epics.vercel.app/main.html)
 
 ---
 
@@ -63,7 +61,7 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 - SQLite clause cache eliminating repeat calls entirely on identical re-uploads
 - Self-check-and-retry verification, glossary retrieval via sentence-transformers, readability scoring, and an 85-test mocked suite
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-simplifier)<!-- replace with exact repo URL -->
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-simplifier)
 
 ---
 
@@ -72,6 +70,5 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ekta-9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 
 </div>

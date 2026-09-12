@@ -77,13 +77,13 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 ## GitHub Stats
  
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ekta-9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekta-9&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ekta-9&theme=tokyo-night&hide_border=true)
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-doc-simplifier)<!-- replace with exact repo URL -->
+ 
+</div>
 
 ---
 

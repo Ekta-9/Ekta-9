@@ -74,7 +74,7 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 - SQLite clause cache eliminating repeat calls entirely on identical re-uploads
 - Self-check-and-retry verification, glossary retrieval via sentence-transformers, readability scoring, and an 85-test mocked suite
 
-
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-doc-simplifier)<!-- replace with exact repo URL -->
 
 ---
 

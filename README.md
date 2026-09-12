@@ -2,7 +2,7 @@
 
 # Ekta Harde
 
-CS undergrad at VIT | Turning new opportunities and real-world problems into tech solutions.
+Turning new opportunities and real-world problems into tech solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ektah/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9)

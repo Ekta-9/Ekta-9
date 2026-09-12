@@ -74,18 +74,7 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 - SQLite clause cache eliminating repeat calls entirely on identical re-uploads
 - Self-check-and-retry verification, glossary retrieval via sentence-transformers, readability scoring, and an 85-test mocked suite
 
-## GitHub Stats
- 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ekta-9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekta-9&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ekta-9&theme=tokyo-night&hide_border=true)
- 
-</div>
 
----
 
 ---
 
@@ -95,6 +84,5 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ekta-9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ekta-9&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>

@@ -84,8 +84,8 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ekta-9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ekta-9&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>

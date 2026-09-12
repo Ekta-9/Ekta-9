@@ -12,10 +12,12 @@ Turning real-world problems into working code.
 
 </div>
 
+</div> <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1wNnc5M3VyMmc1bXZuYjAxZmlpYXExcGFjdWFkdjJpeXIxeHczcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cC4jUAUPDQ91K/giphy.gif" width="400"> </div>
+
 ---
  
 I build systems where AI/ML meets backend engineering. Training models, building RAG pipelines and autonomous agents, wiring them into secure APIs, and shipping things that actually hold up in production. Always looking to contribute to something impactful.
- 
+
 ---
 
 ## Tech Stack

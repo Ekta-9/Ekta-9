@@ -4,11 +4,11 @@
 
 CS undergrad at VIT | Turning new opportunities and real-world problems into tech solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR-HANDLE/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-HANDLE)
-[![Gmail](https://img.shields.io/badge/Email-YOUR.EMAIL%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR.EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ektah/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ekta_9/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ektaharde)
+[![Gmail](https://img.shields.io/badge/Email-YOUR.EMAIL%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ektaharde@gmail.com)
 
 </div>
 
@@ -74,7 +74,7 @@ An async pipeline that turns dense legal contracts into plain-language summaries
 - SQLite clause cache eliminating repeat calls entirely on identical re-uploads
 - Self-check-and-retry verification, glossary retrieval via sentence-transformers, readability scoring, and an 85-test mocked suite
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/legal-doc-simplifier)<!-- replace with exact repo URL -->
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ekta-9/legal-doc-simplifier)<!-- replace with exact repo URL -->
 
 ---
 
